@@ -1,0 +1,12 @@
+body {
+    background-color: #b1d3d3;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+  }
+
+.row{
+  margin: auto;
+}
